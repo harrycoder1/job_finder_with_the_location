@@ -1,0 +1,21 @@
+
+.ffname{
+    color: red;
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.vfdcont{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: center;
+    background-color: #e1f3fa;
+}
+.t123{
+    font-size: 23px;
+    color: gray;
+    font-family: cursive;
+    border-bottom: 3px solid black;
+}
